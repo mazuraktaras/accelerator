@@ -1,2 +1,3 @@
-# accelerator
-Accelerator test
+# Accelerator
+Welcome to the Accelerator test!
+---
